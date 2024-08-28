@@ -69,9 +69,9 @@ public class Main {
         int maxDays = kg / minGrams;
         int minDays = kg / maxGrams;
         int avgDays = (minDays + maxDays) / 2;
-        System.out.println( " максимум дней " + maxDays);
-        System.out.println( " минимум дней " + minDays);
-        System.out.println( " в среднем дней " + avgDays);
+        System.out.println( " максимум дней. " + maxDays);
+        System.out.println( " минимум дней. " + minDays);
+        System.out.println( " в среднем дней. " + avgDays);
         System.out.println();
 
         int masha = 67_760;
