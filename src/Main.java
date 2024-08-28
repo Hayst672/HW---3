@@ -92,13 +92,13 @@ public class Main {
 
         System.out.println( "Маша теперь получает " + increasedMasha +
                 " рублей. Годовой доход вырос на " + (increasedMashaYear - mashaYear) +
-                " рублей");
+                " рублей.");
         System.out.println( "Денис теперь получает " + increasedDenis +
                 " рублей. Годовой доход вырос на " + (increasedDenisYear - denisYear) +
-                " рублей");
+                " рублей.");
         System.out.println( "Кристина теперь получает " + increasedKris +
                 " рублей. Годовой доход вырос на " + (increasedKrisYear - krisYear) +
-                " рублей");
+                " рублей.");
 
 
 
